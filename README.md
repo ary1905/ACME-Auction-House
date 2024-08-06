@@ -3,9 +3,11 @@
 ![ACME Auction House](https://via.placeholder.com/1200x400?text=ACME+Auction+House)  
 *Your premier platform for online auctions*
 
-[![GitHub Issues](https://img.shields.io/github/issues/ary1905/ACME-Auction-House)](https://github.com/ary1905/ACME-Auction-House/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/ary1905/ACME-Auction-House)](https://github.com/ary1905/ACME-Auction-House/stargazers)
-[![GitHub License](https://img.shields.io/github/license/ary1905/ACME-Auction-House)](https://github.com/ary1905/ACME-Auction-House/blob/main/LICENSE)
+![React](https://img.shields.io/badge/React-16.8%2B-blue)
+![Node.js](https://img.shields.io/badge/Node.js-14.x%2B-green)
+![Express](https://img.shields.io/badge/Express-4.x%2B-yellow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14.x%2B-blue)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
 
 ## 📚 Table of Contents
 - [Project Overview](#project-overview)
@@ -76,15 +78,6 @@ Here are some screenshots of the application in action:
 ![Auction Page](https://via.placeholder.com/800x400?text=Auction+Page)  
 *Auction Page*
 
-## 🤝 Contributing
-
-We welcome contributions to enhance the ACME Auction House project! To contribute:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a Pull Request
 
 ## 📝 License
 
