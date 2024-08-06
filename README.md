@@ -1,6 +1,6 @@
 # ACME Auction House
 
-![ACME Auction House](https://via.placeholder.com/1200x400?text=ACME+Auction+House)  
+![ACME Auction House]([https://via.placeholder.com/1200x400?text=ACME+Auction+House](https://i.postimg.cc/65fdhW4L/Screenshot-2024-08-06-203941.png))  
 *Your premier platform for online auctions*
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -74,8 +74,8 @@ Explore the API endpoints and usage guidelines in our [API Documentation](https:
 
 Here are some screenshots of the application in action:
 
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard)  
-*Dashboard View*
+![HomePage]([https://via.placeholder.com/800x400?text=Dashboard](https://i.postimg.cc/zfVK5Tt0/Screenshot-330.png))  
+*Home Page*
 
 ![Auction Page](https://via.placeholder.com/800x400?text=Auction+Page)  
 *Auction Page*
