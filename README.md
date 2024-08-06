@@ -74,8 +74,16 @@ Explore the API endpoints and usage guidelines in our [API Documentation](https:
 
 Here are some screenshots of the application in action:
 
-[![Screenshot-332.png](https://i.postimg.cc/gjPZvQYT/Screenshot-332.png)](https://postimg.cc/LYN5Sygt)
 *Home Page*
+[![Screenshot-330.png](https://i.postimg.cc/zfVK5Tt0/Screenshot-330.png)](https://postimg.cc/kVPBvRdb)
+[![Screenshot-332.png](https://i.postimg.cc/gjPZvQYT/Screenshot-332.png)](https://postimg.cc/LYN5Sygt)
+[![Screenshot-331.png](https://i.postimg.cc/wMcsF2MT/Screenshot-331.png)](https://postimg.cc/T51w3rnZ)
+
+*Login*
+[![Screenshot-333.png](https://i.postimg.cc/wTgNMC4t/Screenshot-333.png)](https://postimg.cc/z32vPcr5)
+
+*Sign Up*
+[![Screenshot-334.png](https://i.postimg.cc/VLgCCK2K/Screenshot-334.png)](https://postimg.cc/8jFc8mpv)
 
 ![Auction Page](https://via.placeholder.com/800x400?text=Auction+Page)  
 *Auction Page*
