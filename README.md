@@ -74,7 +74,7 @@ Explore the API endpoints and usage guidelines in our [API Documentation](https:
 
 Here are some screenshots of the application in action:
 
-![HomePage]([https://via.placeholder.com/800x400?text=Dashboard](https://i.postimg.cc/zfVK5Tt0/Screenshot-330.png))  
+[![Screenshot-332.png](https://i.postimg.cc/gjPZvQYT/Screenshot-332.png)](https://postimg.cc/LYN5Sygt)
 *Home Page*
 
 ![Auction Page](https://via.placeholder.com/800x400?text=Auction+Page)  
