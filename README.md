@@ -85,8 +85,8 @@ Here are some screenshots of the application in action:
 *Sign Up*
 [![Screenshot-334.png](https://i.postimg.cc/VLgCCK2K/Screenshot-334.png)](https://postimg.cc/8jFc8mpv)
 
-![Auction Page](https://via.placeholder.com/800x400?text=Auction+Page)  
 *Auction Page*
+[![Screenshot-341.png](https://i.postimg.cc/65W7tdTn/Screenshot-341.png)](https://postimg.cc/vDK8vxrZ)
 
 
 ## 📝 License
