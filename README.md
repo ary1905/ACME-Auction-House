@@ -1,6 +1,6 @@
 # ACME Auction House
 
-![ACME Auction House]([https://via.placeholder.com/1200x400?text=ACME+Auction+House](https://i.postimg.cc/65fdhW4L/Screenshot-2024-08-06-203941.png))  
+[![Screenshot-2024-08-06-203941.png](https://i.postimg.cc/65fdhW4L/Screenshot-2024-08-06-203941.png)](https://postimg.cc/ppyhWtZp)
 *Your premier platform for online auctions*
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
