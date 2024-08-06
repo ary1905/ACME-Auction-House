@@ -48,9 +48,10 @@ To get started with ACME Auction House, follow these steps:
     cd ACME-Auction-House
     ```
 
-3. **Install dependencies:**
+3. **Install Client dependencies:**
 
     ```bash
+    cd client
     npm install
     ```
 
@@ -64,6 +65,19 @@ To get started with ACME Auction House, follow these steps:
 
     ```
     http://localhost:3000
+    ```
+    
+6. **Install Server dependencies:**
+
+    ```bash
+    cd server
+    npm install
+    ```
+
+4. **Start the server:**
+
+    ```bash
+    npm run dev
     ```
 
 ## 📖 API Documentation
