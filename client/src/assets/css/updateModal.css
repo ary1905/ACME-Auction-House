@@ -1,0 +1,72 @@
+.update-modal {
+    position: fixed;
+    top: 30;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.update-modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    text-align: left;
+}
+
+.update-modal-content h2 {
+    margin-bottom: 20px;
+}
+
+.update-modal-content form {
+    display: flex;
+    flex-direction: column;
+}
+
+.update-modal-content label {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.update-modal-content input,
+.update-modal-content textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.update-modal-content textarea {
+    resize: vertical;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.card-button {
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    font-weight: 700;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.card-button:hover {
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #333;
+}

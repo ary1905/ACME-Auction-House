@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.dashBoardContainer {
+    padding: 20px;
+    margin-top: 5%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f2f5;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    width: 350px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-img {
+    height: 60%;
+    width: 100%;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+    background-color: #dcdcdc;
+}
+
+.card-info {
+    flex: 1;
+    overflow-y: auto;
+    max-height: 150px; /* Adjust as needed */
+    padding: 1em 0;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    border-top: 1px solid #e0e0e0;
+    flex-shrink: 0;
+}
+
+.text-title {
+    font-weight: 700;
+    font-size: 1.4em;
+    margin-bottom: 0.5em;
+    color: #333;
+}
+
+.text-body {
+    font-size: 1em;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
+
+.text-date {
+    font-size: 1em;
+    font-weight: 700;
+    color: #888;
+}
+
+.text-sub {
+    font-weight: 700;
+    color: #333;
+}
+
+.card-button {
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    font-weight: 700;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.card-button:hover {
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #333;
+}
+
+.card-info::-webkit-scrollbar {
+    width: 8px;
+}
+
+.card-info::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 10px;
+}
+
+.card-info::-webkit-scrollbar-track {
+    background: #f0f2f5;
+}

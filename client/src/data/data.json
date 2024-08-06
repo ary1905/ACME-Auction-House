@@ -1,0 +1,70 @@
+{
+  "Header": {
+    "title": "Welcome to Acme Auction House",
+    "paragraph": "Discover a world of rare and valuable items at our premier auction house. Browse our upcoming auctions and find your next treasure."
+  },
+  "About": {
+    "paragraph_1": "Acme Auction House is a premier auction house specializing in fine art, antiques, and collectibles. With over 50 years of experience, we have built a reputation for providing exceptional service and curating the finest collections for our discerning clientele.",
+    "paragraph_2": "Our team of expert appraisers and auctioneers work tirelessly to uncover rare and valuable treasures, ensuring that each item that crosses our auction block is presented with the utmost care and attention to detail.",
+    "Why": [
+      "Expertise and Integrity",
+      "Wide Range of Offerings",
+      "Cutting-Edge Technology",
+      "Exceptional Service"
+    ]
+  },
+  "Services": [
+    {
+      "img": "img/services/Auth.png",
+      "name": "User Authentication",
+      "text": "Users can easily register and log in using their email and password. Our secure authentication system ensures that user accounts are protected and accessible only to authorized individuals."
+    },
+    {
+      "img": "img/services/managament.png",
+      "name": "Auction Item Management",
+      "text": "Users can create, view, update, and delete auction items. Our platform allows users to list items with detailed information, including title, description, starting bid, and end date, and manage their listings with ease."
+    },
+    {
+      "img": "img/services/auction.png",
+      "name": "Bidding Functionality",
+      "text": "Users can place bids on auction items and track their bids in real-time. Our system displays the current highest bid and bid history, providing users with the information they need to make informed bidding decisions."
+    },
+    {
+      "img": "img/services/notification.png",
+      "name": "Notifications",
+      "text": "Users receive notifications when they are outbid, allowing them to take action and place higher bids if desired. This feature ensures users stay informed about the status of their bids."
+    },
+    {
+      "img": "img/services/tracking.png",
+      "name": "Comprehensive Auction Tracking",
+      "text": "Users can view and manage their auction activities, including tracking current bids, reviewing bid history, and managing their auction items. Our application provides a clear overview of all ongoing and past auctions."
+    },
+    {
+      "img": "img/services/verified.png",
+      "name": "Secure and Reliable Platform",
+      "text": "Our platform ensures that all transactions and user data are handled securely. We implement robust security measures to protect user information and maintain the integrity of the auction process."
+    }
+  ],
+  "Features": [
+    {
+      "img": "img/categories/art.png",
+      "title": "Fine Art",
+      "text": "Discover exquisite artworks from renowned artists, capturing timeless beauty and creativity."
+    },
+    {
+      "img": "img/categories/jewelry.png",
+      "title": "Jewelry",
+      "text": "Explore a curated selection of stunning jewelry pieces that add elegance and sophistication to any collection."
+    },
+    {
+      "img": "img/categories/furniture.png",
+      "title": "Furniture",
+      "text": "Find unique and high-quality furniture pieces that blend style and functionality for your living spaces."
+    },
+    {
+      "img": "img/categories/watch.png",
+      "title": "Watches",
+      "text": "Browse a collection of fine watches, combining precision and luxury for the discerning collector."
+    }
+  ]
+}
