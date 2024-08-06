@@ -3,11 +3,13 @@
 ![ACME Auction House](https://via.placeholder.com/1200x400?text=ACME+Auction+House)  
 *Your premier platform for online auctions*
 
-![React](https://img.shields.io/badge/React-16.8%2B-blue)
-![Node.js](https://img.shields.io/badge/Node.js-14.x%2B-green)
-![Express](https://img.shields.io/badge/Express-4.x%2B-yellow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14.x%2B-blue)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📚 Table of Contents
 - [Project Overview](#project-overview)
