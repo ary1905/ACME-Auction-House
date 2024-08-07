@@ -79,14 +79,15 @@ To get started with ACME Auction House, follow these steps:
 
    ```sh
    cp .env.example .env
-2. 
-### 5. **Generate `EMAIL_PASS`**
+   ```
+   
+2. Generate `EMAIL_PASS`
 
-If you need to generate an `EMAIL_PASS` for use with a service like Gmail, follow these steps to create an App Password (assuming you are using Google):
+-If you need to generate an `EMAIL_PASS` for use with a service like Gmail, follow these steps to create an App Password (assuming you are using Google):
 
-1. **Go to your Google Account:** [Google Account](https://myaccount.google.com/)
+-1. **Go to your Google Account:** [Google Account](https://myaccount.google.com/)
 
-2. **Security:**
+-2. **Security:**
    - Click on `Security` in the left sidebar.
    - Enable 2 step verification. (You need to enter your password again)
    - Visit This Link https://myaccount.google.com/apppasswords and create an app password.
@@ -96,7 +97,7 @@ If you need to generate an `EMAIL_PASS` for use with a service like Gmail, follo
    - Use this password as `EMAIL_PASS` in your `.env` file.
    - Use the corresponding Google Email Id for EMAIL_USER.
 
-### Example `.env` File
+-Example `.env` File
 
 Your `.env` file after filling in the placeholders might look like this:
 
@@ -106,7 +107,7 @@ JWT_SECRET=33e16e8a1f0f12c6af17987f802261804bd118a09347b1cf880a5aa03d3326dbf3665
 EMAIL_USER=xyz@gmail.com
 EMAIL_PASS=<YOUR_GENERATED_APP_PASSWORD> (16 digits : For Exanple => abcd efgh ijkl mnop)
 
-
+```
 
 8. **Start the server:**
 
