@@ -73,8 +73,15 @@ To get started with ACME Auction House, follow these steps:
     cd server
     npm install
     ```
+7.## Environment File .env setup
 
-4. **Start the server:**
+1. Copy the `.env.example` file to `.env`:
+
+   ```sh
+   cp .env.example .env
+
+
+8. **Start the server:**
 
     ```bash
     npm run dev
