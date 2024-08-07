@@ -15,6 +15,7 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
+- [Database Setup](#database-setup)
 - [API Documentation](#api-documentation)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
@@ -114,6 +115,24 @@ To get started with ACME Auction House, follow these steps:
     ```bash
     npm run dev
     ```
+
+## 🗄️ Database Setup
+
+To set up the PostgreSQL database for ACME Auction House, follow these steps:
+
+1. **Open pgAdmin and connect to your PostgreSQL server.**
+
+2. **Create a new database:**
+   - Right-click on "Databases" in the left-hand panel.
+   - Select "Create" > "Database..."
+   - Enter the name "AuctionDB" and click "Save".
+
+3. **Run the `database_queries.sql` file to create tables and relationships:**
+   - Open the Query Tool by clicking on the database you just created and selecting "Query Tool" from the Tools menu.
+   - Copy and paste the contents of `database_queries.sql` into the query editor.
+   - Execute the query by clicking the "Execute/Refresh" button (lightning bolt icon).
+
+The `database_queries.sql` file includes SQL commands to create the necessary tables (`users`, `auction_items`, and `bids`) and their relationships, along with triggers for updating timestamps and starting bids.
 
 ## 📖 API Documentation
 
